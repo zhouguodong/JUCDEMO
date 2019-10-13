@@ -89,6 +89,7 @@ public class ProdConsumer_TraditionDemo {
             }
         },"B").start();
     }
+    //使用if判断 以上有隐患的 假设只有有四个就出现 连厨房都吃的现象
 
 
 }
