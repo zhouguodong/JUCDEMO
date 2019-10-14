@@ -1,7 +1,5 @@
 package mian;
 
-import com.sun.org.apache.xerces.internal.dom.PSVIAttrNSImpl;
-
 /**
  *
  *
