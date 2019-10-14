@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JUCDEMO.iml" filepath="$PROJECT_DIR$/JUCDEMO.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProdConsumer_BlockingDemo/ProdConsumer_BlockingDemo.iml" filepath="$PROJECT_DIR$/ProdConsumer_BlockingDemo/ProdConsumer_BlockingDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProdConsumer_TraditionDemo/ProdConsumer_TraditionDemo.iml" filepath="$PROJECT_DIR$/ProdConsumer_TraditionDemo/ProdConsumer_TraditionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Synchronized_LockDemo/Synchronized_LockDemo.iml" filepath="$PROJECT_DIR$/Synchronized_LockDemo/Synchronized_LockDemo.iml" />
     </modules>
   </component>
 </project>
