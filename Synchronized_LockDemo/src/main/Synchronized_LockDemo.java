@@ -9,6 +9,8 @@ import java.util.concurrent.locks.ReentrantLock;
  * 来 10组
  * <p>
  * 可以锁定多个条件 condition
+ *
+ * 帮助理解 synchronized关键字 与lock  不同
  */
 class MyResource {
     private int num = 1;//A 1B 2C 3  thread
